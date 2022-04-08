@@ -1,0 +1,11 @@
+[
+   { "firstName"  : "Japa"
+   , "age"        :  24
+   , "language"   :  "Rust"
+     }
+,
+   { "firstName"  : "Chiyoku"
+   , "age"        :  39
+   , "language"   :  "Idris"
+     }
+]
